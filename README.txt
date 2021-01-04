@@ -6,4 +6,4 @@ P. P. Angelov and X. Gu, “Autonomous learning multi-model classifier of 0-orde
 IEEE International Conference on Evolving and Autonomous Intelligent Systems, 2017, pp. 1–7.
 ==============================================================================================
 Please cite the paper above if this code helps. 
-Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: x.gu3@lancaster.ac.uk
+Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: xig4@aber.ac.uk
